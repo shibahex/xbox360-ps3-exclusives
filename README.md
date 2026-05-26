@@ -13,5 +13,5 @@ This project maintains comprehensive collections of retail titles and installati
 The core dataset is organized into simple text databases:
 
 * **`xbox360_exclusives.txt`**: A compiled checklist of games unique to the Xbox 360 system (including standalone console exclusives, hardware setup discs, and Kinect-only titles).
-* **`xbox360_games.txt`**: A list of Xbox 360 game names scraped from a certain lair.
-* **`ps3_games.txt`**:  A list of PS3 game names scraped from a certain lair.
+* **`xbox360_games.txt`**: A list of Xbox 360 game names scraped from wikipedia
+* **`ps3_games.txt`**:  A list of PS3 game names scraped from wikipedia
