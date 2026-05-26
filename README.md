@@ -1,6 +1,6 @@
 # Xbox 360 Exclusives Tracker
 >    [!WARNING]
->    This does not include every possible xbox 360 and ps3 game, just the ones scraped from one website (1290 xbox360 games/software and 1164 ps3 games/software)
+>    This might not include every possible xbox 360 and ps3 game, just the ones scraped from the wikipedia pages (2160 xbox360 games/software and 2405 ps3 games/software)
 
 A specialized repository dedicated to tracking, identifying, and cataloging video games released during the seventh generation of consoles, specifically comparing the libraries of the **Xbox 360** and the **PlayStation 3**. 
 <div align="center">
