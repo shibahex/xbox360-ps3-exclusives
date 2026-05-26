@@ -1,4 +1,4 @@
-# Xbox 360 Exclusives
+# Xbox 360 VS PS3 Exclusives
 > [!WARNING]
 > This might not include every possible Xbox 360 and PS3 game, just the ones scraped from the Wikipedia pages (2160 Xbox 360 games and 2405 PS3 games)
 
